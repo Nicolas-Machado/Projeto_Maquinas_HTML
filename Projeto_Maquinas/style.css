@@ -1,0 +1,54 @@
+#menu{
+    text-align: center;
+    background: #c5c5b2;
+    padding: 15px;
+}
+
+#menu a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#trator_capa{
+    -webkit-filter: drop-shadow(5px 5px 5px black);
+    width: 900px;
+
+}
+
+.trator_conteudo{
+    width: 900px;
+}
+
+
+body{
+    background-image: url('images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#corpo{
+    width: 900px;
+}
+
+.conteudo{
+    background: #e8e8d9;
+}
+
+.conteudo h1{
+    
+    text-align: center;
+}
+
+.conteudo p{
+    padding: 10px;
+}
+
+.rodape h3{
+    text-align: center;
+}
